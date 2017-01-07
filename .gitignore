@@ -1,0 +1,7 @@
+*.iml
+.idea
+app/test-files
+
+app/src/dist
+
+node_modules
